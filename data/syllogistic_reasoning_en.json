@@ -1,0 +1,1050 @@
+{
+    "syllogistic_reasoning_binary_bel_inv.json": [
+        {
+            "schema": "AE3",
+            "premise1": "some adjustments are not rockets",
+            "premise2": "no rockets are improvements",
+            "conclusion": "all adjustments are improvements",
+            "words": [
+                "adjustments",
+                "improvements",
+                "rockets"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AE3",
+            "premise1": "all parrots are birds",
+            "premise2": "no species are parrots",
+            "conclusion": "no species are birds",
+            "words": [
+                "parrots",
+                "birds",
+                "species"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AA1",
+            "premise1": "some bridges are artifacts",
+            "premise2": "all structures are artifacts",
+            "conclusion": "all bridges are structures",
+            "words": [
+                "bridges",
+                "structures",
+                "artifacts"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AA1",
+            "premise1": "all timepieces are instruments",
+            "premise2": "all measuring instruments are instruments",
+            "conclusion": "all timepieces are measuring instruments",
+            "words": [
+                "timepieces",
+                "measuring instruments",
+                "instruments"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AI4",
+            "premise1": "some activities are coverings",
+            "premise2": "some protections are coverings",
+            "conclusion": "all protections are activities",
+            "words": [
+                "activities",
+                "protections",
+                "coverings"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA3",
+            "premise1": "some habitations are not artists",
+            "premise2": "all habitations are habitats",
+            "conclusion": "no artists are habitats",
+            "words": [
+                "artists",
+                "habitats",
+                "habitations"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AA2",
+            "premise1": "all arthropods are invertebrates",
+            "premise2": "some invertebrates are centipedes",
+            "conclusion": "all centipedes are arthropods",
+            "words": [
+                "invertebrates",
+                "arthropods",
+                "centipedes"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AA2",
+            "premise1": "some segues are changes of state",
+            "premise2": "all segues are passages",
+            "conclusion": "all passages are changes of state",
+            "words": [
+                "changes of state",
+                "passages",
+                "segues"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "IE4",
+            "premise1": "some marksmen are snipers",
+            "premise2": "some snipers are not artists",
+            "conclusion": "no marksmen are artists",
+            "words": [
+                "snipers",
+                "marksmen",
+                "artists"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AI2",
+            "premise1": "some sculptures are plastic arts",
+            "premise2": "some plastic arts are statues",
+            "conclusion": "all statues are sculptures",
+            "words": [
+                "sculptures",
+                "statues",
+                "plastic arts"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "IE4",
+            "premise1": "some organisms are postdiluvians",
+            "premise2": "some postdiluvians are not succulents",
+            "conclusion": "no organisms are succulents",
+            "words": [
+                "postdiluvians",
+                "organisms",
+                "succulents"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "IE4",
+            "premise1": "some end products are oeuvres",
+            "premise2": "some oeuvres are not organs",
+            "conclusion": "no end products are organs",
+            "words": [
+                "oeuvres",
+                "end products",
+                "organs"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA3",
+            "premise1": "no vehicles are thoroughfares",
+            "premise2": "some vehicles are not arteries",
+            "conclusion": "all arteries are thoroughfares",
+            "words": [
+                "vehicles",
+                "thoroughfares",
+                "arteries"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA4",
+            "premise1": "no colonies are cameras",
+            "premise2": "some bodies are not cameras",
+            "conclusion": "all colonies are bodies",
+            "words": [
+                "cameras",
+                "colonies",
+                "bodies"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "IE4",
+            "premise1": "some families are foster families",
+            "premise2": "some foster families are not hammers",
+            "conclusion": "no families are hammers",
+            "words": [
+                "foster families",
+                "families",
+                "hammers"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA2",
+            "premise1": "some markets are not initial public offerings",
+            "premise2": "all initial public offerings are commerces",
+            "conclusion": "no commerces are markets",
+            "words": [
+                "markets",
+                "commerces",
+                "initial public offerings"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA3",
+            "premise1": "no precipitations are teachers",
+            "premise2": "no teaching fellows are precipitations",
+            "conclusion": "all teaching fellows are teachers",
+            "words": [
+                "precipitations",
+                "teachers",
+                "teaching fellows"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA2",
+            "premise1": "no aviators are vehicles",
+            "premise2": "some vehicles are not pilots",
+            "conclusion": "all pilots are aviators",
+            "words": [
+                "vehicles",
+                "aviators",
+                "pilots"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA4",
+            "premise1": "no biospheres are warriors",
+            "premise2": "some regions are not warriors",
+            "conclusion": "all biospheres are regions",
+            "words": [
+                "warriors",
+                "biospheres",
+                "regions"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AE3",
+            "premise1": "no communities are palaces",
+            "premise2": "no communities are mansions",
+            "conclusion": "all palaces are mansions",
+            "words": [
+                "palaces",
+                "mansions",
+                "communities"
+            ],
+            "plausibility": true,
+            "validity": false
+        }
+    ],
+    "syllogistic_reasoning_binary_bel_val.json": [
+        {
+            "schema": "AE1",
+            "premise1": "all vases are jars",
+            "premise2": "no jars are machineries",
+            "conclusion": "no machineries are vases",
+            "words": [
+                "vases",
+                "jars",
+                "machineries"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AE4",
+            "premise1": "all planktons are organisms",
+            "premise2": "no planktons are chesses",
+            "conclusion": "some organisms are not chesses",
+            "words": [
+                "organisms",
+                "planktons",
+                "chesses"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AA1",
+            "premise1": "all armors are protective coverings",
+            "premise2": "all protective coverings are coverings",
+            "conclusion": "all armors are coverings",
+            "words": [
+                "armors",
+                "protective coverings",
+                "coverings"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AA4",
+            "premise1": "all sanctuaries are places",
+            "premise2": "all sanctuaries are geographical areas",
+            "conclusion": "some geographical areas are places",
+            "words": [
+                "places",
+                "sanctuaries",
+                "geographical areas"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA3",
+            "premise1": "no vegetations are Godheads",
+            "premise2": "all hypostases are Godheads",
+            "conclusion": "no vegetations are hypostases",
+            "words": [
+                "vegetations",
+                "Godheads",
+                "hypostases"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AI2",
+            "premise1": "all zebras are equines",
+            "premise2": "some odd-toed ungulates are zebras",
+            "conclusion": "some equines are odd-toed ungulates",
+            "words": [
+                "equines",
+                "zebras",
+                "odd-toed ungulates"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AE4",
+            "premise1": "all plants are building complexes",
+            "premise2": "no plants are ladles",
+            "conclusion": "some building complexes are not ladles",
+            "words": [
+                "building complexes",
+                "plants",
+                "ladles"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AE1",
+            "premise1": "all cathedrals are churches",
+            "premise2": "no churches are statues",
+            "conclusion": "no cathedrals are statues",
+            "words": [
+                "cathedrals",
+                "churches",
+                "statues"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AA4",
+            "premise1": "all bicycles are wheeled vehicles",
+            "premise2": "all bicycles are containers",
+            "conclusion": "some wheeled vehicles are containers",
+            "words": [
+                "wheeled vehicles",
+                "bicycles",
+                "containers"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA1",
+            "premise1": "no instruments are marauders",
+            "premise2": "all marauders are attackers",
+            "conclusion": "some attackers are not instruments",
+            "words": [
+                "instruments",
+                "marauders",
+                "attackers"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA4",
+            "premise1": "no cookbooks are doctors",
+            "premise2": "all cookbooks are reference books",
+            "conclusion": "some reference books are not doctors",
+            "words": [
+                "doctors",
+                "cookbooks",
+                "reference books"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA1",
+            "premise1": "no libraries are percussions",
+            "premise2": "all percussions are musics",
+            "conclusion": "some musics are not libraries",
+            "words": [
+                "libraries",
+                "percussions",
+                "musics"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA3",
+            "premise1": "no balloons are mirrors",
+            "premise2": "all car mirrors are mirrors",
+            "conclusion": "no car mirrors are balloons",
+            "words": [
+                "balloons",
+                "mirrors",
+                "car mirrors"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EI1",
+            "premise1": "no reptiles are amphibians",
+            "premise2": "some amphibians are swamp buggies",
+            "conclusion": "some swamp buggies are not reptiles",
+            "words": [
+                "reptiles",
+                "amphibians",
+                "swamp buggies"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AA4",
+            "premise1": "all manufacturers are makers",
+            "premise2": "all manufacturers are creators",
+            "conclusion": "some creators are makers",
+            "words": [
+                "makers",
+                "manufacturers",
+                "creators"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA2",
+            "premise1": "no classes are jungles",
+            "premise2": "all sexes are classes",
+            "conclusion": "some jungles are not sexes",
+            "words": [
+                "jungles",
+                "classes",
+                "sexes"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AI4",
+            "premise1": "all percussions are musics",
+            "premise2": "some percussions are drummings",
+            "conclusion": "some drummings are musics",
+            "words": [
+                "musics",
+                "percussions",
+                "drummings"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EI1",
+            "premise1": "no preys are nerve pathways",
+            "premise2": "some nerve pathways are peduncles",
+            "conclusion": "some peduncles are not preys",
+            "words": [
+                "preys",
+                "nerve pathways",
+                "peduncles"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA4",
+            "premise1": "no zebras are astronauts",
+            "premise2": "all zebras are equines",
+            "conclusion": "some equines are not astronauts",
+            "words": [
+                "astronauts",
+                "zebras",
+                "equines"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AA4",
+            "premise1": "all classes are collections",
+            "premise2": "all classes are groups",
+            "conclusion": "some collections are groups",
+            "words": [
+                "collections",
+                "classes",
+                "groups"
+            ],
+            "plausibility": true,
+            "validity": true
+        }
+    ],
+    "syllogistic_reasoning_binary_unbel_inv.json": [
+        {
+            "schema": "EA2",
+            "premise1": "no habitats are environments",
+            "premise2": "some environments are not balloons",
+            "conclusion": "all balloons are habitats",
+            "words": [
+                "environments",
+                "habitats",
+                "balloons"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "IA1",
+            "premise1": "some containers are moorings",
+            "premise2": "all tissues are containers",
+            "conclusion": "some moorings are tissues",
+            "words": [
+                "moorings",
+                "tissues",
+                "containers"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EI2",
+            "premise1": "no cups are crockeries",
+            "premise2": "some Marines are not crockeries",
+            "conclusion": "some Marines are cups",
+            "words": [
+                "crockeries",
+                "cups",
+                "Marines"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "IA1",
+            "premise1": "some cuisines are agriculturists",
+            "premise2": "all invertebrates are cuisines",
+            "conclusion": "some agriculturists are invertebrates",
+            "words": [
+                "agriculturists",
+                "invertebrates",
+                "cuisines"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AI4",
+            "premise1": "some tissues are steeds",
+            "premise2": "some biomes are steeds",
+            "conclusion": "all biomes are tissues",
+            "words": [
+                "tissues",
+                "biomes",
+                "steeds"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "IE2",
+            "premise1": "some ecosystems are not footbridges",
+            "premise2": "no footbridges are bridges",
+            "conclusion": "some bridges are ecosystems",
+            "words": [
+                "ecosystems",
+                "bridges",
+                "footbridges"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AA1",
+            "premise1": "all trains are vehicles",
+            "premise2": "all slates are vehicles",
+            "conclusion": "all trains are slates",
+            "words": [
+                "trains",
+                "slates",
+                "vehicles"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "IE1",
+            "premise1": "some tools are not medical practitioners",
+            "premise2": "no doctors are medical practitioners",
+            "conclusion": "some tools are doctors",
+            "words": [
+                "tools",
+                "doctors",
+                "medical practitioners"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EI3",
+            "premise1": "some artworks are not optic",
+            "premise2": "some artworks are physic",
+            "conclusion": "no optic are physic",
+            "words": [
+                "optic",
+                "physic",
+                "artworks"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AO3",
+            "premise1": "some engineers are not statues",
+            "premise2": "some engineers are not treasures",
+            "conclusion": "all statues are treasures",
+            "words": [
+                "statues",
+                "treasures",
+                "engineers"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AA2",
+            "premise1": "some hammers are marksmen",
+            "premise2": "all marksmen are ladles",
+            "conclusion": "all ladles are hammers",
+            "words": [
+                "hammers",
+                "ladles",
+                "marksmen"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AO3",
+            "premise1": "all transportation systems are habitats",
+            "premise2": "some bridges are not transportation systems",
+            "conclusion": "some bridges are not habitats",
+            "words": [
+                "transportation systems",
+                "habitats",
+                "bridges"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AE3",
+            "premise1": "no squirrels are meteorological balloons",
+            "premise2": "no meteorological balloons are balloons",
+            "conclusion": "all squirrels are balloons",
+            "words": [
+                "squirrels",
+                "balloons",
+                "meteorological balloons"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EI2",
+            "premise1": "no lights are conditions",
+            "premise2": "some vases are not conditions",
+            "conclusion": "some vases are lights",
+            "words": [
+                "conditions",
+                "lights",
+                "vases"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EI2",
+            "premise1": "some precipitations are not creators",
+            "premise2": "some precipitations are farmers",
+            "conclusion": "no farmers are creators",
+            "words": [
+                "creators",
+                "farmers",
+                "precipitations"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "IA1",
+            "premise1": "some satellites are manufacturers",
+            "premise2": "all memorials are satellites",
+            "conclusion": "some manufacturers are memorials",
+            "words": [
+                "manufacturers",
+                "memorials",
+                "satellites"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EA3",
+            "premise1": "no omnivores are eaters",
+            "premise2": "no omnivores are bottles",
+            "conclusion": "all bottles are eaters",
+            "words": [
+                "omnivores",
+                "eaters",
+                "bottles"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AA2",
+            "premise1": "all jungles are contemplations",
+            "premise2": "all jungles are cuisines",
+            "conclusion": "all cuisines are contemplations",
+            "words": [
+                "contemplations",
+                "cuisines",
+                "jungles"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EA1",
+            "premise1": "no formations are arrangements",
+            "premise2": "some vases are not formations",
+            "conclusion": "all arrangements are vases",
+            "words": [
+                "formations",
+                "arrangements",
+                "vases"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EA2",
+            "premise1": "some farmers are not attackers",
+            "premise2": "all farmers are marauders",
+            "conclusion": "no marauders are attackers",
+            "words": [
+                "attackers",
+                "marauders",
+                "farmers"
+            ],
+            "plausibility": false,
+            "validity": false
+        }
+    ],
+    "syllogistic_reasoning_binary_unbel_val.json": [
+        {
+            "schema": "AA1",
+            "premise1": "all cuisines are biomes",
+            "premise2": "all biomes are consumers",
+            "conclusion": "some cuisines are consumers",
+            "words": [
+                "cuisines",
+                "biomes",
+                "consumers"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AO3",
+            "premise1": "all artists are protections",
+            "premise2": "some steeds are not protections",
+            "conclusion": "some steeds are not artists",
+            "words": [
+                "artists",
+                "protections",
+                "steeds"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "IE1",
+            "premise1": "some protists are cameras",
+            "premise2": "no cameras are photographic equipments",
+            "conclusion": "some protists are not photographic equipments",
+            "words": [
+                "protists",
+                "cameras",
+                "photographic equipments"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AE1",
+            "premise1": "all interior designers are shields",
+            "premise2": "no shields are protective coverings",
+            "conclusion": "no protective coverings are interior designers",
+            "words": [
+                "interior designers",
+                "shields",
+                "protective coverings"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AO3",
+            "premise1": "all bacterias are communities",
+            "premise2": "some organs are not communities",
+            "conclusion": "some organs are not bacterias",
+            "words": [
+                "bacterias",
+                "communities",
+                "organs"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AA1",
+            "premise1": "all structures are Colosseums",
+            "premise2": "all Colosseums are percussions",
+            "conclusion": "all structures are percussions",
+            "words": [
+                "structures",
+                "Colosseums",
+                "percussions"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "OA4",
+            "premise1": "some fortresses are not windows",
+            "premise2": "all fortresses are implements",
+            "conclusion": "some implements are not windows",
+            "words": [
+                "windows",
+                "fortresses",
+                "implements"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EA3",
+            "premise1": "no theaters are buildings",
+            "premise2": "all engines are buildings",
+            "conclusion": "some engines are not theaters",
+            "words": [
+                "theaters",
+                "buildings",
+                "engines"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "IA1",
+            "premise1": "some notebooks are contemplations",
+            "premise2": "all contemplations are animals",
+            "conclusion": "some notebooks are animals",
+            "words": [
+                "notebooks",
+                "contemplations",
+                "animals"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EA4",
+            "premise1": "no rockets are vehicles",
+            "premise2": "all rockets are scavengers",
+            "conclusion": "some scavengers are not vehicles",
+            "words": [
+                "vehicles",
+                "rockets",
+                "scavengers"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AE1",
+            "premise1": "all mollusks are machineries",
+            "premise2": "no machineries are machines",
+            "conclusion": "no machines are mollusks",
+            "words": [
+                "mollusks",
+                "machineries",
+                "machines"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EA3",
+            "premise1": "no rugs are floor covers",
+            "premise2": "all factories are floor covers",
+            "conclusion": "some rugs are not factories",
+            "words": [
+                "rugs",
+                "floor covers",
+                "factories"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EA3",
+            "premise1": "no oceans are bodies of water",
+            "premise2": "all factories are bodies of water",
+            "conclusion": "some oceans are not factories",
+            "words": [
+                "oceans",
+                "bodies of water",
+                "factories"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AE3",
+            "premise1": "all missiles are adjustments",
+            "premise2": "no domestications are adjustments",
+            "conclusion": "some domestications are not missiles",
+            "words": [
+                "missiles",
+                "adjustments",
+                "domestications"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EI3",
+            "premise1": "no apples are edible fruits",
+            "premise2": "some spheres are edible fruits",
+            "conclusion": "some spheres are not apples",
+            "words": [
+                "apples",
+                "edible fruits",
+                "spheres"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AE1",
+            "premise1": "all amphibians are doctors",
+            "premise2": "no doctors are medical practitioners",
+            "conclusion": "no amphibians are medical practitioners",
+            "words": [
+                "amphibians",
+                "doctors",
+                "medical practitioners"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AA2",
+            "premise1": "all aquatics are rockets",
+            "premise2": "all manufacturers are aquatics",
+            "conclusion": "all manufacturers are rockets",
+            "words": [
+                "rockets",
+                "aquatics",
+                "manufacturers"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AE3",
+            "premise1": "all thoroughfares are carnivores",
+            "premise2": "no procyonids are carnivores",
+            "conclusion": "some thoroughfares are not procyonids",
+            "words": [
+                "thoroughfares",
+                "carnivores",
+                "procyonids"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EA2",
+            "premise1": "no species are taxonomic groups",
+            "premise2": "all devices are species",
+            "conclusion": "some taxonomic groups are not devices",
+            "words": [
+                "taxonomic groups",
+                "species",
+                "devices"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AA4",
+            "premise1": "all organisms are mountains",
+            "premise2": "all organisms are rugs",
+            "conclusion": "some rugs are mountains",
+            "words": [
+                "mountains",
+                "organisms",
+                "rugs"
+            ],
+            "plausibility": false,
+            "validity": true
+        }
+    ]
+}

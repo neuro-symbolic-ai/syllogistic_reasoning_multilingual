@@ -1,0 +1,1050 @@
+{
+    "syllogistic_reasoning_binary_bel_inv.json": [
+        {
+            "schema": "AE3",
+            "premise1": "一些调整不是火箭",
+            "premise2": "没有火箭是改进的",
+            "conclusion": "所有调整都是改进",
+            "words": [
+                "adjustments",
+                "improvements",
+                "rockets"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AE3",
+            "premise1": "所有鹦鹉都是鸟",
+            "premise2": "没有物种是鹦鹉",
+            "conclusion": "没有物种是鸟类",
+            "words": [
+                "parrots",
+                "birds",
+                "species"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AA1",
+            "premise1": "一些桥是人工制品",
+            "premise2": "所有结构都是人工制品",
+            "conclusion": "所有桥梁都是结构",
+            "words": [
+                "bridges",
+                "structures",
+                "artifacts"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AA1",
+            "premise1": "所有钟表都是乐器",
+            "premise2": "所有测量仪器都是仪器",
+            "conclusion": "所有钟表都在测量仪器",
+            "words": [
+                "timepieces",
+                "measuring instruments",
+                "instruments"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AI4",
+            "premise1": "一些活动是封面",
+            "premise2": "一些保护措施是覆盖物",
+            "conclusion": "所有保护都是活动",
+            "words": [
+                "activities",
+                "protections",
+                "coverings"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA3",
+            "premise1": "有些居住不是艺术家",
+            "premise2": "所有栖息地都是栖息地",
+            "conclusion": "没有艺术家是栖息地",
+            "words": [
+                "artists",
+                "habitats",
+                "habitations"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AA2",
+            "premise1": "所有节肢动物都是无脊椎动物",
+            "premise2": "一些无脊椎动物是cente",
+            "conclusion": "所有centecedes都是节肢动物",
+            "words": [
+                "invertebrates",
+                "arthropods",
+                "centipedes"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AA2",
+            "premise1": "有些人是状态的变化",
+            "premise2": "所有阶层都是段落",
+            "conclusion": "所有段落都是状态的变化",
+            "words": [
+                "changes of state",
+                "passages",
+                "segues"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "IE4",
+            "premise1": "一些射手是狙击手",
+            "premise2": "一些狙击手不是艺术家",
+            "conclusion": "没有射手是艺术家",
+            "words": [
+                "snipers",
+                "marksmen",
+                "artists"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AI2",
+            "premise1": "一些雕塑是塑料艺术",
+            "premise2": "一些塑料艺术是雕像",
+            "conclusion": "所有雕像都是雕塑",
+            "words": [
+                "sculptures",
+                "statues",
+                "plastic arts"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "IE4",
+            "premise1": "有些生物是后杜威的人",
+            "premise2": "一些后杜威者不是多肉植物",
+            "conclusion": "没有生物是多肉植物",
+            "words": [
+                "postdiluvians",
+                "organisms",
+                "succulents"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "IE4",
+            "premise1": "一些最终产品是生物的",
+            "premise2": "有些动物不是器官",
+            "conclusion": "没有最终产品是器官",
+            "words": [
+                "oeuvres",
+                "end products",
+                "organs"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA3",
+            "premise1": "没有车辆是通道",
+            "premise2": "有些车辆不是动脉",
+            "conclusion": "所有动脉都是通道",
+            "words": [
+                "vehicles",
+                "thoroughfares",
+                "arteries"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA4",
+            "premise1": "没有菌落是相机",
+            "premise2": "有些尸体不是相机",
+            "conclusion": "所有殖民地都是身体",
+            "words": [
+                "cameras",
+                "colonies",
+                "bodies"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "IE4",
+            "premise1": "一些家庭是寄养家庭",
+            "premise2": "一些寄养家庭不是锤子",
+            "conclusion": "没有家庭是锤子",
+            "words": [
+                "foster families",
+                "families",
+                "hammers"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA2",
+            "premise1": "有些市场不是首次公开产品",
+            "premise2": "所有首次公开发行都是商业",
+            "conclusion": "没有商业是市场",
+            "words": [
+                "markets",
+                "commerces",
+                "initial public offerings"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA3",
+            "premise1": "没有降水是老师",
+            "premise2": "没有教学研究员是降水",
+            "conclusion": "所有教学研究员都是老师",
+            "words": [
+                "precipitations",
+                "teachers",
+                "teaching fellows"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA2",
+            "premise1": "没有飞行员是车辆",
+            "premise2": "有些车辆不是飞行员",
+            "conclusion": "所有飞行员都是飞行员",
+            "words": [
+                "vehicles",
+                "aviators",
+                "pilots"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA4",
+            "premise1": "没有生物圈是战士",
+            "premise2": "有些地区不是战士",
+            "conclusion": "所有生物圈都是区域",
+            "words": [
+                "warriors",
+                "biospheres",
+                "regions"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AE3",
+            "premise1": "没有社区是宫殿",
+            "premise2": "没有社区是豪宅",
+            "conclusion": "所有宫殿都是豪宅",
+            "words": [
+                "palaces",
+                "mansions",
+                "communities"
+            ],
+            "plausibility": true,
+            "validity": false
+        }
+    ],
+    "syllogistic_reasoning_binary_bel_val.json": [
+        {
+            "schema": "AE1",
+            "premise1": "所有花瓶都是罐子",
+            "premise2": "没有罐子是机械",
+            "conclusion": "没有机器是花瓶",
+            "words": [
+                "vases",
+                "jars",
+                "machineries"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AE4",
+            "premise1": "所有浮游生物都是生物",
+            "premise2": "没有木板是奶酪",
+            "conclusion": "有些生物不是奶酪",
+            "words": [
+                "organisms",
+                "planktons",
+                "chesses"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AA1",
+            "premise1": "所有装甲都是防护罩",
+            "premise2": "所有防护罩都是覆盖物",
+            "conclusion": "所有装甲都是覆盖物",
+            "words": [
+                "armors",
+                "protective coverings",
+                "coverings"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AA4",
+            "premise1": "所有庇护所都是地方",
+            "premise2": "所有庇护所都是地理区域",
+            "conclusion": "一些地理区域是",
+            "words": [
+                "places",
+                "sanctuaries",
+                "geographical areas"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA3",
+            "premise1": "没有植被是神格",
+            "premise2": "所有的低估都是神格",
+            "conclusion": "没有植被是不足的",
+            "words": [
+                "vegetations",
+                "Godheads",
+                "hypostases"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AI2",
+            "premise1": "所有斑马都是马",
+            "premise2": "一些奇怪的凝结物是斑马",
+            "conclusion": "有些马是奇怪的束缚",
+            "words": [
+                "equines",
+                "zebras",
+                "odd-toed ungulates"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AE4",
+            "premise1": "所有植物都在建造复合体",
+            "premise2": "没有植物是梯子",
+            "conclusion": "一些建筑综合体不是梯子",
+            "words": [
+                "building complexes",
+                "plants",
+                "ladles"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AE1",
+            "premise1": "所有大教堂都是教堂",
+            "premise2": "没有教堂是雕像",
+            "conclusion": "没有大教堂是雕像",
+            "words": [
+                "cathedrals",
+                "churches",
+                "statues"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AA4",
+            "premise1": "所有自行车都是轮式车辆",
+            "premise2": "所有自行车都是容器",
+            "conclusion": "一些车辆是容器",
+            "words": [
+                "wheeled vehicles",
+                "bicycles",
+                "containers"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA1",
+            "premise1": "没有乐器是掠夺者",
+            "premise2": "所有掠夺者都是攻击者",
+            "conclusion": "一些攻击者不是工具",
+            "words": [
+                "instruments",
+                "marauders",
+                "attackers"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA4",
+            "premise1": "没有食谱是医生",
+            "premise2": "所有食谱都是参考书",
+            "conclusion": "一些参考书不是医生",
+            "words": [
+                "doctors",
+                "cookbooks",
+                "reference books"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA1",
+            "premise1": "没有图书馆是打击乐器",
+            "premise2": "所有打击乐都是音乐",
+            "conclusion": "有些音乐不是图书馆",
+            "words": [
+                "libraries",
+                "percussions",
+                "musics"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA3",
+            "premise1": "没有气球是镜子",
+            "premise2": "所有汽车镜子都是镜子",
+            "conclusion": "没有汽车镜子是气球",
+            "words": [
+                "balloons",
+                "mirrors",
+                "car mirrors"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EI1",
+            "premise1": "没有爬行动物是两栖动物",
+            "premise2": "一些两栖动物是沼泽",
+            "conclusion": "一些沼泽的越野车不是爬行动物",
+            "words": [
+                "reptiles",
+                "amphibians",
+                "swamp buggies"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AA4",
+            "premise1": "所有制造商都是制造商",
+            "premise2": "所有制造商都是创造者",
+            "conclusion": "一些创作者是制造商",
+            "words": [
+                "makers",
+                "manufacturers",
+                "creators"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA2",
+            "premise1": "没有课是丛林",
+            "premise2": "所有性别都是课",
+            "conclusion": "有些丛林不是性别",
+            "words": [
+                "jungles",
+                "classes",
+                "sexes"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AI4",
+            "premise1": "所有打击乐都是音乐",
+            "premise2": "一些打击乐是鼓声",
+            "conclusion": "一些鼓是音乐",
+            "words": [
+                "musics",
+                "percussions",
+                "drummings"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EI1",
+            "premise1": "没有猎物是神经通路",
+            "premise2": "一些神经途径是花梗",
+            "conclusion": "一些花梗不是猎物",
+            "words": [
+                "preys",
+                "nerve pathways",
+                "peduncles"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA4",
+            "premise1": "没有斑马是宇航员",
+            "premise2": "所有斑马都是马",
+            "conclusion": "一些马不是宇航员",
+            "words": [
+                "astronauts",
+                "zebras",
+                "equines"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AA4",
+            "premise1": "所有课程都是收藏",
+            "premise2": "所有课程都是组",
+            "conclusion": "有些收藏是团体",
+            "words": [
+                "collections",
+                "classes",
+                "groups"
+            ],
+            "plausibility": true,
+            "validity": true
+        }
+    ],
+    "syllogistic_reasoning_binary_unbel_inv.json": [
+        {
+            "schema": "EA2",
+            "premise1": "没有栖息地是环境",
+            "premise2": "有些环境不是气球",
+            "conclusion": "所有气球都是栖息地",
+            "words": [
+                "environments",
+                "habitats",
+                "balloons"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "IA1",
+            "premise1": "有些容器是系泊",
+            "premise2": "所有组织都是容器",
+            "conclusion": "有些系泊是组织",
+            "words": [
+                "moorings",
+                "tissues",
+                "containers"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EI2",
+            "premise1": "没有杯子",
+            "premise2": "有些海军陆战队不是克罗克",
+            "conclusion": "一些海军陆战队是杯子",
+            "words": [
+                "crockeries",
+                "cups",
+                "Marines"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "IA1",
+            "premise1": "一些美食是农业学家",
+            "premise2": "所有无脊椎动物都是美食",
+            "conclusion": "一些农业学家是无脊椎动物",
+            "words": [
+                "agriculturists",
+                "invertebrates",
+                "cuisines"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AI4",
+            "premise1": "有些组织是马",
+            "premise2": "一些生物群落是马",
+            "conclusion": "所有生物群都是组织",
+            "words": [
+                "tissues",
+                "biomes",
+                "steeds"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "IE2",
+            "premise1": "有些生态系统不是脚桥",
+            "premise2": "没有足迹是桥梁",
+            "conclusion": "一些桥是生态系统",
+            "words": [
+                "ecosystems",
+                "bridges",
+                "footbridges"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AA1",
+            "premise1": "所有火车都是车辆",
+            "premise2": "所有板岩都是车辆",
+            "conclusion": "所有火车都是石板",
+            "words": [
+                "trains",
+                "slates",
+                "vehicles"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "IE1",
+            "premise1": "有些工具不是医生",
+            "premise2": "没有医生是医生",
+            "conclusion": "一些工具是医生",
+            "words": [
+                "tools",
+                "doctors",
+                "medical practitioners"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EI3",
+            "premise1": "有些艺术品不是光学的",
+            "premise2": "一些艺术品是物理",
+            "conclusion": "没有光学是物理",
+            "words": [
+                "optic",
+                "physic",
+                "artworks"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AO3",
+            "premise1": "一些工程师不是雕像",
+            "premise2": "一些工程师不是宝藏",
+            "conclusion": "所有雕像都是宝藏",
+            "words": [
+                "statues",
+                "treasures",
+                "engineers"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AA2",
+            "premise1": "一些锤子是射手",
+            "premise2": "所有的射手都是载人",
+            "conclusion": "所有的载体都是锤子",
+            "words": [
+                "hammers",
+                "ladles",
+                "marksmen"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AO3",
+            "premise1": "所有运输系统都是栖息地",
+            "premise2": "一些桥不是运输系统",
+            "conclusion": "一些桥不是栖息地",
+            "words": [
+                "transportation systems",
+                "habitats",
+                "bridges"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AE3",
+            "premise1": "没有松鼠是气象气球",
+            "premise2": "没有气象气球是气球",
+            "conclusion": "所有松鼠都是气球",
+            "words": [
+                "squirrels",
+                "balloons",
+                "meteorological balloons"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EI2",
+            "premise1": "没有灯是条件",
+            "premise2": "有些花瓶不是条件",
+            "conclusion": "一些花瓶是灯",
+            "words": [
+                "conditions",
+                "lights",
+                "vases"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EI2",
+            "premise1": "一些降水不是创造者",
+            "premise2": "一些降水是农民",
+            "conclusion": "没有农民是创造者",
+            "words": [
+                "creators",
+                "farmers",
+                "precipitations"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "IA1",
+            "premise1": "一些卫星是制造商",
+            "premise2": "所有纪念物都是卫星",
+            "conclusion": "一些制造商是纪念馆",
+            "words": [
+                "manufacturers",
+                "memorials",
+                "satellites"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EA3",
+            "premise1": "没有杂食动物是食客",
+            "premise2": "没有杂食动物是瓶子",
+            "conclusion": "所有瓶子都是食人鱼",
+            "words": [
+                "omnivores",
+                "eaters",
+                "bottles"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AA2",
+            "premise1": "所有的丛林都是沉思",
+            "premise2": "所有的丛林都是美食",
+            "conclusion": "所有厨房都是沉思",
+            "words": [
+                "contemplations",
+                "cuisines",
+                "jungles"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EA1",
+            "premise1": "没有编队是安排",
+            "premise2": "有些花瓶不是编队",
+            "conclusion": "所有布置都是花瓶",
+            "words": [
+                "formations",
+                "arrangements",
+                "vases"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EA2",
+            "premise1": "一些农民不是攻击者",
+            "premise2": "所有农民都是掠夺者",
+            "conclusion": "没有掠夺者是攻击者",
+            "words": [
+                "attackers",
+                "marauders",
+                "farmers"
+            ],
+            "plausibility": false,
+            "validity": false
+        }
+    ],
+    "syllogistic_reasoning_binary_unbel_val.json": [
+        {
+            "schema": "AA1",
+            "premise1": "所有美食都是生物群落",
+            "premise2": "所有生物群落都是消费者",
+            "conclusion": "一些美食是消费者",
+            "words": [
+                "cuisines",
+                "biomes",
+                "consumers"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AO3",
+            "premise1": "所有艺术家都是保护",
+            "premise2": "一些马匹不是保护",
+            "conclusion": "一些马匹不是艺术家",
+            "words": [
+                "artists",
+                "protections",
+                "steeds"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "IE1",
+            "premise1": "一些生物是相机",
+            "premise2": "没有照相机是摄影设备",
+            "conclusion": "一些生物不是摄影设备",
+            "words": [
+                "protists",
+                "cameras",
+                "photographic equipments"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AE1",
+            "premise1": "所有室内设计师都是盾牌",
+            "premise2": "没有防护罩是保护性覆盖物",
+            "conclusion": "没有保护覆盖物是室内设计师",
+            "words": [
+                "interior designers",
+                "shields",
+                "protective coverings"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AO3",
+            "premise1": "所有细菌都是社区",
+            "premise2": "有些器官不是社区",
+            "conclusion": "有些器官不是细菌",
+            "words": [
+                "bacterias",
+                "communities",
+                "organs"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AA1",
+            "premise1": "所有结构都是罗马斗兽",
+            "premise2": "所有罗马竞技都属于打击乐器",
+            "conclusion": "所有结构都是打击乐器",
+            "words": [
+                "structures",
+                "Colosseums",
+                "percussions"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "OA4",
+            "premise1": "有些要塞不是窗户",
+            "premise2": "所有要塞都是工具",
+            "conclusion": "有些工具不是Windows",
+            "words": [
+                "windows",
+                "fortresses",
+                "implements"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EA3",
+            "premise1": "没有剧院是建筑物",
+            "premise2": "所有引擎都是建筑物",
+            "conclusion": "一些引擎不是剧院",
+            "words": [
+                "theaters",
+                "buildings",
+                "engines"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "IA1",
+            "premise1": "一些笔记本是沉思",
+            "premise2": "所有思考都是动物",
+            "conclusion": "一些笔记本是动物",
+            "words": [
+                "notebooks",
+                "contemplations",
+                "animals"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EA4",
+            "premise1": "没有火箭是车辆",
+            "premise2": "所有火箭都是清道夫",
+            "conclusion": "一些清道夫不是车辆",
+            "words": [
+                "vehicles",
+                "rockets",
+                "scavengers"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AE1",
+            "premise1": "所有软体动物都是机械",
+            "premise2": "没有机器是机器",
+            "conclusion": "没有机器是软体动物",
+            "words": [
+                "mollusks",
+                "machineries",
+                "machines"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EA3",
+            "premise1": "没有地毯是地板盖",
+            "premise2": "所有工厂都是地板盖",
+            "conclusion": "一些地毯不是工厂",
+            "words": [
+                "rugs",
+                "floor covers",
+                "factories"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EA3",
+            "premise1": "没有海洋是水体",
+            "premise2": "所有工厂都是水体",
+            "conclusion": "有些海洋不是工厂",
+            "words": [
+                "oceans",
+                "bodies of water",
+                "factories"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AE3",
+            "premise1": "所有导弹都是调整",
+            "premise2": "没有家务是调整",
+            "conclusion": "有些家属不是导弹",
+            "words": [
+                "missiles",
+                "adjustments",
+                "domestications"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EI3",
+            "premise1": "没有苹果是可食用的水果",
+            "premise2": "一些球是可食用的水果",
+            "conclusion": "有些球不是苹果",
+            "words": [
+                "apples",
+                "edible fruits",
+                "spheres"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AE1",
+            "premise1": "所有两栖动物都是医生",
+            "premise2": "没有医生是医生",
+            "conclusion": "没有两栖动物是医生",
+            "words": [
+                "amphibians",
+                "doctors",
+                "medical practitioners"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AA2",
+            "premise1": "所有水上运动都是火箭",
+            "premise2": "所有制造商都是水上运动",
+            "conclusion": "所有制造商都是火箭",
+            "words": [
+                "rockets",
+                "aquatics",
+                "manufacturers"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AE3",
+            "premise1": "所有通道都是食肉动物",
+            "premise2": "没有procyonid是食肉动物",
+            "conclusion": "一些通道不是procyonids",
+            "words": [
+                "thoroughfares",
+                "carnivores",
+                "procyonids"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EA2",
+            "premise1": "没有物种是分类群",
+            "premise2": "所有设备都是物种",
+            "conclusion": "一些分类组不是设备",
+            "words": [
+                "taxonomic groups",
+                "species",
+                "devices"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AA4",
+            "premise1": "所有生物都是山",
+            "premise2": "所有生物都是地毯",
+            "conclusion": "一些地毯是山",
+            "words": [
+                "mountains",
+                "organisms",
+                "rugs"
+            ],
+            "plausibility": false,
+            "validity": true
+        }
+    ]
+}

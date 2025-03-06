@@ -1,0 +1,1050 @@
+{
+    "syllogistic_reasoning_binary_bel_inv.json": [
+        {
+            "schema": "AE3",
+            "premise1": "Baadhi ya marekebisho sio makombo",
+            "premise2": "Hakuna makombora ni maboresho",
+            "conclusion": "Marekebisho yote ni maboresho",
+            "words": [
+                "adjustments",
+                "improvements",
+                "rockets"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AE3",
+            "premise1": "Parrots zote ni ndege",
+            "premise2": "Hakuna spishi ambazo ni parrots",
+            "conclusion": "Hakuna spishi ni ndege",
+            "words": [
+                "parrots",
+                "birds",
+                "species"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AA1",
+            "premise1": "Madaraja mengine ni mabaki",
+            "premise2": "Miundo yote ni mabaki",
+            "conclusion": "Madaraja yote ni miundo",
+            "words": [
+                "bridges",
+                "structures",
+                "artifacts"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AA1",
+            "premise1": "Sehemu zote za saa ni vyombo",
+            "premise2": "Vyombo vyote vya kupima ni vyombo",
+            "conclusion": "Saa zote ni vifaa vya kupima",
+            "words": [
+                "timepieces",
+                "measuring instruments",
+                "instruments"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AI4",
+            "premise1": "Shughuli zingine ni vifuniko",
+            "premise2": "Ulinzi zingine ni vifuniko",
+            "conclusion": "Ulinzi wote ni shughuli",
+            "words": [
+                "activities",
+                "protections",
+                "coverings"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA3",
+            "premise1": "Baadhi ya makazi sio wasanii",
+            "premise2": "Makazi yote ni makazi",
+            "conclusion": "Hakuna wasanii ni makazi",
+            "words": [
+                "artists",
+                "habitats",
+                "habitations"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AA2",
+            "premise1": "Arthropods zote ni invertebrates",
+            "premise2": "Baadhi ya invertebrates ni centipedes",
+            "conclusion": "Centipedes zote ni arthropods",
+            "words": [
+                "invertebrates",
+                "arthropods",
+                "centipedes"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AA2",
+            "premise1": "Baadhi ya sekunde ni mabadiliko ya hali",
+            "premise2": "Sehemu zote ni vifungu",
+            "conclusion": "Vifungu vyote ni mabadiliko ya hali",
+            "words": [
+                "changes of state",
+                "passages",
+                "segues"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "IE4",
+            "premise1": "Baadhi ya alama ni snipers",
+            "premise2": "Baadhi ya snipers sio wasanii",
+            "conclusion": "Hakuna alama ni wasanii",
+            "words": [
+                "snipers",
+                "marksmen",
+                "artists"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AI2",
+            "premise1": "Sanamu zingine ni sanaa ya plastiki",
+            "premise2": "Sanaa zingine za plastiki ni sanamu",
+            "conclusion": "Sanamu zote ni sanamu",
+            "words": [
+                "sculptures",
+                "statues",
+                "plastic arts"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "IE4",
+            "premise1": "Viumbe vingine ni postdiluvians",
+            "premise2": "Baadhi ya postdiluvians sio wasaidizi",
+            "conclusion": "Hakuna viumbe ambavyo ni wasaidizi",
+            "words": [
+                "postdiluvians",
+                "organisms",
+                "succulents"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "IE4",
+            "premise1": "Bidhaa zingine za mwisho ni oeuvres",
+            "premise2": "Baadhi ya oeuvres sio viungo",
+            "conclusion": "Hakuna bidhaa za mwisho ni viungo",
+            "words": [
+                "oeuvres",
+                "end products",
+                "organs"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA3",
+            "premise1": "Hakuna magari ambayo ni kamili",
+            "premise2": "Magari mengine sio mishipa",
+            "conclusion": "Mishipa yote ni kamili",
+            "words": [
+                "vehicles",
+                "thoroughfares",
+                "arteries"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA4",
+            "premise1": "Hakuna koloni ni kamera",
+            "premise2": "Miili kadhaa sio kamera",
+            "conclusion": "Makoloni yote ni miili",
+            "words": [
+                "cameras",
+                "colonies",
+                "bodies"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "IE4",
+            "premise1": "Familia zingine ni familia za walezi",
+            "premise2": "Familia zingine za walezi sio nyundo",
+            "conclusion": "Hakuna familia ni nyundo",
+            "words": [
+                "foster families",
+                "families",
+                "hammers"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA2",
+            "premise1": "Baadhi ya masoko sio sadaka za umma za awali",
+            "premise2": "Matoleo yote ya awali ya umma ni matangazo",
+            "conclusion": "Hakuna matangazo ni masoko",
+            "words": [
+                "markets",
+                "commerces",
+                "initial public offerings"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA3",
+            "premise1": "Hakuna precipitations ni waalimu",
+            "premise2": "Hakuna wenzake wa kufundisha ni hali ya hewa",
+            "conclusion": "Wenzake wote wanaofundisha ni waalimu",
+            "words": [
+                "precipitations",
+                "teachers",
+                "teaching fellows"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA2",
+            "premise1": "Hakuna ndege ni magari",
+            "premise2": "Magari mengine sio marubani",
+            "conclusion": "Marubani wote ni wasafiri",
+            "words": [
+                "vehicles",
+                "aviators",
+                "pilots"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA4",
+            "premise1": "Hakuna biospheres ni mashujaa",
+            "premise2": "Baadhi ya mikoa sio mashujaa",
+            "conclusion": "Biospheres zote ni mikoa",
+            "words": [
+                "warriors",
+                "biospheres",
+                "regions"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AE3",
+            "premise1": "Hakuna jamii ni majumba",
+            "premise2": "Hakuna jamii ni nyumba",
+            "conclusion": "Nyumba zote ni nyumba",
+            "words": [
+                "palaces",
+                "mansions",
+                "communities"
+            ],
+            "plausibility": true,
+            "validity": false
+        }
+    ],
+    "syllogistic_reasoning_binary_bel_val.json": [
+        {
+            "schema": "AE1",
+            "premise1": "Vases zote ni mitungi",
+            "premise2": "Hakuna mitungi ni mashine",
+            "conclusion": "Hakuna machineries ni vases",
+            "words": [
+                "vases",
+                "jars",
+                "machineries"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AE4",
+            "premise1": "Planktons zote ni viumbe",
+            "premise2": "Hakuna planktons ni jibini",
+            "conclusion": "Viumbe vingine sio jibini",
+            "words": [
+                "organisms",
+                "planktons",
+                "chesses"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AA1",
+            "premise1": "Silaha zote ni vifuniko vya kinga",
+            "premise2": "Vifuniko vyote vya kinga ni vifuniko",
+            "conclusion": "Silaha zote ni vifuniko",
+            "words": [
+                "armors",
+                "protective coverings",
+                "coverings"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AA4",
+            "premise1": "Sehemu zote ni mahali",
+            "premise2": "Sehemu zote ni maeneo ya kijiografia",
+            "conclusion": "Maeneo mengine ya kijiografia ni maeneo",
+            "words": [
+                "places",
+                "sanctuaries",
+                "geographical areas"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA3",
+            "premise1": "Hakuna mimea ya Mungu",
+            "premise2": "Hypostases zote ni mungu wa kike",
+            "conclusion": "Hakuna mimea ni hypostases",
+            "words": [
+                "vegetations",
+                "Godheads",
+                "hypostases"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AI2",
+            "premise1": "Zebras zote ni sawa",
+            "premise2": "Baadhi ya ungulates isiyo ya kawaida ni punda",
+            "conclusion": "Baadhi ya usawa ni isiyo ya kawaida",
+            "words": [
+                "equines",
+                "zebras",
+                "odd-toed ungulates"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AE4",
+            "premise1": "Mimea yote ni ujenzi wa majengo",
+            "premise2": "Hakuna mimea ni ladles",
+            "conclusion": "Baadhi ya ujenzi wa jengo sio ladles",
+            "words": [
+                "building complexes",
+                "plants",
+                "ladles"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AE1",
+            "premise1": "Makanisa yote ni makanisa",
+            "premise2": "Hakuna makanisa ni sanamu",
+            "conclusion": "Hakuna makanisa ni sanamu",
+            "words": [
+                "cathedrals",
+                "churches",
+                "statues"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AA4",
+            "premise1": "Baiskeli zote ni magari ya magurudumu",
+            "premise2": "Baiskeli zote ni vyombo",
+            "conclusion": "Magari mengine yenye magurudumu ni vyombo",
+            "words": [
+                "wheeled vehicles",
+                "bicycles",
+                "containers"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA1",
+            "premise1": "Hakuna vyombo ambavyo ni Marauders",
+            "premise2": "Marauders wote ni washambuliaji",
+            "conclusion": "Washambuliaji wengine sio vyombo",
+            "words": [
+                "instruments",
+                "marauders",
+                "attackers"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA4",
+            "premise1": "Hakuna vitabu vya kuki ni madaktari",
+            "premise2": "Vitabu vyote ni vitabu vya kumbukumbu",
+            "conclusion": "Vitabu vingine vya kumbukumbu sio madaktari",
+            "words": [
+                "doctors",
+                "cookbooks",
+                "reference books"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA1",
+            "premise1": "Hakuna maktaba ni maoni",
+            "premise2": "Mtazamo wote ni musics",
+            "conclusion": "Musics zingine sio maktaba",
+            "words": [
+                "libraries",
+                "percussions",
+                "musics"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA3",
+            "premise1": "Hakuna baluni ni vioo",
+            "premise2": "Vioo vyote vya gari ni vioo",
+            "conclusion": "Hakuna vioo vya gari ni baluni",
+            "words": [
+                "balloons",
+                "mirrors",
+                "car mirrors"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EI1",
+            "premise1": "Hakuna reptilia ni amphibians",
+            "premise2": "Baadhi ya amphibians ni buggies swamp",
+            "conclusion": "Baadhi ya buggies swamp sio reptiles",
+            "words": [
+                "reptiles",
+                "amphibians",
+                "swamp buggies"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AA4",
+            "premise1": "Watengenezaji wote ni watengenezaji",
+            "premise2": "Watengenezaji wote ni waundaji",
+            "conclusion": "Waumbaji wengine ni watengenezaji",
+            "words": [
+                "makers",
+                "manufacturers",
+                "creators"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA2",
+            "premise1": "Hakuna madarasa ni misitu",
+            "premise2": "Jinsia zote ni madarasa",
+            "conclusion": "Baadhi ya misitu sio jinsia",
+            "words": [
+                "jungles",
+                "classes",
+                "sexes"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AI4",
+            "premise1": "Mtazamo wote ni musics",
+            "premise2": "Baadhi ya maoni ni ngoma",
+            "conclusion": "Drummings zingine ni musics",
+            "words": [
+                "musics",
+                "percussions",
+                "drummings"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EI1",
+            "premise1": "Hakuna preys ni njia za ujasiri",
+            "premise2": "Njia zingine za ujasiri ni peduncles",
+            "conclusion": "Baadhi ya peduncles sio preys",
+            "words": [
+                "preys",
+                "nerve pathways",
+                "peduncles"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA4",
+            "premise1": "Hakuna zebras ni wanaanga",
+            "premise2": "Zebras zote ni sawa",
+            "conclusion": "Baadhi ya watu sio wanaanga",
+            "words": [
+                "astronauts",
+                "zebras",
+                "equines"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AA4",
+            "premise1": "Madarasa yote ni makusanyo",
+            "premise2": "Madarasa yote ni vikundi",
+            "conclusion": "Makusanyo mengine ni vikundi",
+            "words": [
+                "collections",
+                "classes",
+                "groups"
+            ],
+            "plausibility": true,
+            "validity": true
+        }
+    ],
+    "syllogistic_reasoning_binary_unbel_inv.json": [
+        {
+            "schema": "EA2",
+            "premise1": "Hakuna makazi ni mazingira",
+            "premise2": "Mazingira mengine sio baluni",
+            "conclusion": "Baluni zote ni makazi",
+            "words": [
+                "environments",
+                "habitats",
+                "balloons"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "IA1",
+            "premise1": "Vyombo vingine ni moorings",
+            "premise2": "Tishu zote ni vyombo",
+            "conclusion": "Baadhi ya moorings ni tishu",
+            "words": [
+                "moorings",
+                "tissues",
+                "containers"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EI2",
+            "premise1": "Hakuna vikombe ambavyo ni viboko",
+            "premise2": "Baadhi ya Majini sio crockeries",
+            "conclusion": "Baadhi ya Majini ni vikombe",
+            "words": [
+                "crockeries",
+                "cups",
+                "Marines"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "IA1",
+            "premise1": "Vyakula vingine ni wataalamu wa kilimo",
+            "premise2": "Invertebrates zote ni vyakula",
+            "conclusion": "Wataalam wengine wa kilimo ni invertebrates",
+            "words": [
+                "agriculturists",
+                "invertebrates",
+                "cuisines"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AI4",
+            "premise1": "Vipande vingine ni viboreshaji",
+            "premise2": "Baadhi ya biomes ni steeds",
+            "conclusion": "Biomes zote ni tishu",
+            "words": [
+                "tissues",
+                "biomes",
+                "steeds"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "IE2",
+            "premise1": "Baadhi ya mazingira sio vitambaa vya miguu",
+            "premise2": "Hakunabridges za miguu ni madaraja",
+            "conclusion": "Madaraja mengine ni mazingira",
+            "words": [
+                "ecosystems",
+                "bridges",
+                "footbridges"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AA1",
+            "premise1": "Treni zote ni magari",
+            "premise2": "Slates zote ni magari",
+            "conclusion": "Treni zote ni slate",
+            "words": [
+                "trains",
+                "slates",
+                "vehicles"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "IE1",
+            "premise1": "Zana zingine sio wataalam wa matibabu",
+            "premise2": "Hakuna madaktari ni wataalam wa matibabu",
+            "conclusion": "Zana zingine ni madaktari",
+            "words": [
+                "tools",
+                "doctors",
+                "medical practitioners"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EI3",
+            "premise1": "Baadhi ya kazi za sanaa sio macho",
+            "premise2": "Sanaa zingine ni za fizikia",
+            "conclusion": "Hakuna macho ni ya fizikia",
+            "words": [
+                "optic",
+                "physic",
+                "artworks"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AO3",
+            "premise1": "Wahandisi wengine sio sanamu",
+            "premise2": "Wahandisi wengine sio hazina",
+            "conclusion": "Sanamu zote ni hazina",
+            "words": [
+                "statues",
+                "treasures",
+                "engineers"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AA2",
+            "premise1": "Nyundo zingine ni alama",
+            "premise2": "Alama zote ni Ladles",
+            "conclusion": "Ladles zote ni nyundo",
+            "words": [
+                "hammers",
+                "ladles",
+                "marksmen"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AO3",
+            "premise1": "Mifumo yote ya usafirishaji ni makazi",
+            "premise2": "Madaraja mengine sio mifumo ya usafirishaji",
+            "conclusion": "Madaraja mengine sio makazi",
+            "words": [
+                "transportation systems",
+                "habitats",
+                "bridges"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AE3",
+            "premise1": "Hakuna squirrels ni baluni za hali ya hewa",
+            "premise2": "Hakuna baluni za hali ya hewa ni baluni",
+            "conclusion": "Squirrels zote ni baluni",
+            "words": [
+                "squirrels",
+                "balloons",
+                "meteorological balloons"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EI2",
+            "premise1": "Hakuna taa ni hali",
+            "premise2": "Vases zingine sio masharti",
+            "conclusion": "Vases zingine ni taa",
+            "words": [
+                "conditions",
+                "lights",
+                "vases"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EI2",
+            "premise1": "Baadhi ya hali ya hewa sio waumbaji",
+            "premise2": "Baadhi ya hali ya hewa ni wakulima",
+            "conclusion": "Hakuna wakulima ambao ni waumbaji",
+            "words": [
+                "creators",
+                "farmers",
+                "precipitations"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "IA1",
+            "premise1": "Satelaiti zingine ni watengenezaji",
+            "premise2": "Kumbukumbu zote ni satelaiti",
+            "conclusion": "Watengenezaji wengine ni kumbukumbu",
+            "words": [
+                "manufacturers",
+                "memorials",
+                "satellites"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EA3",
+            "premise1": "Hakuna omnivores ni wale wanaokula",
+            "premise2": "Hakuna omnivores ni chupa",
+            "conclusion": "Chupa zote ni wale wanaokula",
+            "words": [
+                "omnivores",
+                "eaters",
+                "bottles"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AA2",
+            "premise1": "Misitu yote ni tafakari",
+            "premise2": "Misitu yote ni vyakula",
+            "conclusion": "Jikoni zote ni tafakari",
+            "words": [
+                "contemplations",
+                "cuisines",
+                "jungles"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EA1",
+            "premise1": "Hakuna fomu ni mipango",
+            "premise2": "Vases zingine sio fomu",
+            "conclusion": "Mipangilio yote ni vases",
+            "words": [
+                "formations",
+                "arrangements",
+                "vases"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EA2",
+            "premise1": "Wakulima wengine sio washambuliaji",
+            "premise2": "Wakulima wote ni Marauders",
+            "conclusion": "Hakuna Marauders ni washambuliaji",
+            "words": [
+                "attackers",
+                "marauders",
+                "farmers"
+            ],
+            "plausibility": false,
+            "validity": false
+        }
+    ],
+    "syllogistic_reasoning_binary_unbel_val.json": [
+        {
+            "schema": "AA1",
+            "premise1": "Vyakula vyote ni biomes",
+            "premise2": "Biomes zote ni watumiaji",
+            "conclusion": "Vyakula vingine ni watumiaji",
+            "words": [
+                "cuisines",
+                "biomes",
+                "consumers"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AO3",
+            "premise1": "Wasanii wote ni kinga",
+            "premise2": "Baadhi ya hatua sio kinga",
+            "conclusion": "Baadhi ya wasanii sio wasanii",
+            "words": [
+                "artists",
+                "protections",
+                "steeds"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "IE1",
+            "premise1": "Watetezi wengine ni kamera",
+            "premise2": "Hakuna kamera ambazo ni vifaa vya kupiga picha",
+            "conclusion": "Watetezi wengine sio vifaa vya kupiga picha",
+            "words": [
+                "protists",
+                "cameras",
+                "photographic equipments"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AE1",
+            "premise1": "Wabunifu wote wa mambo ya ndani ni ngao",
+            "premise2": "Hakuna ngao ni vifuniko vya kinga",
+            "conclusion": "Hakuna vifuniko vya kinga ni wabuni wa mambo ya ndani",
+            "words": [
+                "interior designers",
+                "shields",
+                "protective coverings"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AO3",
+            "premise1": "Bakteria zote ni jamii",
+            "premise2": "Viungo vingine sio jamii",
+            "conclusion": "Viungo vingine sio bakteria",
+            "words": [
+                "bacterias",
+                "communities",
+                "organs"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AA1",
+            "premise1": "Miundo yote ni koloni",
+            "premise2": "Colosseums zote ni mtazamo",
+            "conclusion": "Miundo yote ni mtazamo",
+            "words": [
+                "structures",
+                "Colosseums",
+                "percussions"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "OA4",
+            "premise1": "Ngome zingine sio windows",
+            "premise2": "Ngome zote ni vifaa",
+            "conclusion": "Vifaa vingine sio windows",
+            "words": [
+                "windows",
+                "fortresses",
+                "implements"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EA3",
+            "premise1": "Hakuna sinema ni majengo",
+            "premise2": "Injini zote ni majengo",
+            "conclusion": "Injini zingine sio sinema",
+            "words": [
+                "theaters",
+                "buildings",
+                "engines"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "IA1",
+            "premise1": "Daftari zingine ni tafakari",
+            "premise2": "Tafakari zote ni wanyama",
+            "conclusion": "Daftari zingine ni wanyama",
+            "words": [
+                "notebooks",
+                "contemplations",
+                "animals"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EA4",
+            "premise1": "Hakuna makombora ni magari",
+            "premise2": "Makombora yote ni scavenger",
+            "conclusion": "Baadhi ya scavenger sio magari",
+            "words": [
+                "vehicles",
+                "rockets",
+                "scavengers"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AE1",
+            "premise1": "Mollusks zote ni mashine",
+            "premise2": "Hakuna machineries ni mashine",
+            "conclusion": "Hakuna mashine ni mollusks",
+            "words": [
+                "mollusks",
+                "machineries",
+                "machines"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EA3",
+            "premise1": "Hakuna rugs ni vifuniko vya sakafu",
+            "premise2": "Viwanda vyote ni vifuniko vya sakafu",
+            "conclusion": "Baadhi ya rugs sio viwanda",
+            "words": [
+                "rugs",
+                "floor covers",
+                "factories"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EA3",
+            "premise1": "Hakuna bahari ni miili ya maji",
+            "premise2": "Viwanda vyote ni miili ya maji",
+            "conclusion": "Baadhi ya bahari sio viwanda",
+            "words": [
+                "oceans",
+                "bodies of water",
+                "factories"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AE3",
+            "premise1": "Makombora yote ni marekebisho",
+            "premise2": "Hakuna marekebisho ni marekebisho",
+            "conclusion": "Baadhi ya nyumba sio makombora",
+            "words": [
+                "missiles",
+                "adjustments",
+                "domestications"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EI3",
+            "premise1": "Hakuna maapulo ni matunda ya kula",
+            "premise2": "Baadhi ya nyanja ni matunda ya kula",
+            "conclusion": "Baadhi ya nyanja sio maapulo",
+            "words": [
+                "apples",
+                "edible fruits",
+                "spheres"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AE1",
+            "premise1": "Amphibians wote ni madaktari",
+            "premise2": "Hakuna madaktari ni wataalam wa matibabu",
+            "conclusion": "Hakuna amphibians ni wataalam wa matibabu",
+            "words": [
+                "amphibians",
+                "doctors",
+                "medical practitioners"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AA2",
+            "premise1": "Aquatics zote ni makombora",
+            "premise2": "Watengenezaji wote ni majini",
+            "conclusion": "Watengenezaji wote ni makombora",
+            "words": [
+                "rockets",
+                "aquatics",
+                "manufacturers"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AE3",
+            "premise1": "Thoroughfares zote ni carnivores",
+            "premise2": "Hakuna procyonids ni carnivores",
+            "conclusion": "Baadhi ya jumla sio procyonids",
+            "words": [
+                "thoroughfares",
+                "carnivores",
+                "procyonids"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EA2",
+            "premise1": "Hakuna spishi ni vikundi vya ushuru",
+            "premise2": "Vifaa vyote ni spishi",
+            "conclusion": "Baadhi ya vikundi vya ushuru sio vifaa",
+            "words": [
+                "taxonomic groups",
+                "species",
+                "devices"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AA4",
+            "premise1": "Viumbe vyote ni milima",
+            "premise2": "Viumbe vyote ni rugs",
+            "conclusion": "Baadhi ya rugs ni milima",
+            "words": [
+                "mountains",
+                "organisms",
+                "rugs"
+            ],
+            "plausibility": false,
+            "validity": true
+        }
+    ]
+}

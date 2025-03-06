@@ -1,0 +1,1050 @@
+{
+    "syllogistic_reasoning_binary_bel_inv.json": [
+        {
+            "schema": "AE3",
+            "premise1": "Einige Anpassungen sind keine Raketen",
+            "premise2": "Keine Raketen sind Verbesserungen",
+            "conclusion": "Alle Anpassungen sind Verbesserungen",
+            "words": [
+                "adjustments",
+                "improvements",
+                "rockets"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AE3",
+            "premise1": "Alle Papageien sind Vögel",
+            "premise2": "Keine Arten sind Papageien",
+            "conclusion": "Keine Arten sind Vögel",
+            "words": [
+                "parrots",
+                "birds",
+                "species"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AA1",
+            "premise1": "Einige Brücken sind Artefakte",
+            "premise2": "Alle Strukturen sind Artefakte",
+            "conclusion": "Alle Brücken sind Strukturen",
+            "words": [
+                "bridges",
+                "structures",
+                "artifacts"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AA1",
+            "premise1": "Alle Uhren sind Instrumente",
+            "premise2": "Alle Messinstrumente sind Instrumente",
+            "conclusion": "Alle Zeitmesser messen Instrumente",
+            "words": [
+                "timepieces",
+                "measuring instruments",
+                "instruments"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AI4",
+            "premise1": "Einige Aktivitäten sind Abdeckungen",
+            "premise2": "Einige Schutzmaßnahmen sind Abdeckungen",
+            "conclusion": "Alle Schutzmaßnahmen sind Aktivitäten",
+            "words": [
+                "activities",
+                "protections",
+                "coverings"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA3",
+            "premise1": "Einige Behausungen sind keine Künstler",
+            "premise2": "Alle Behausungen sind Lebensräume",
+            "conclusion": "Keine Künstler sind Lebensräume",
+            "words": [
+                "artists",
+                "habitats",
+                "habitations"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AA2",
+            "premise1": "Alle Arthropoden sind wirbellose Wirbellose",
+            "premise2": "Einige Wirbellose sind Tausendfedes",
+            "conclusion": "Alle Tausendfüßler sind Arthropoden",
+            "words": [
+                "invertebrates",
+                "arthropods",
+                "centipedes"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AA2",
+            "premise1": "Einige Segues sind Zustandsänderungen",
+            "premise2": "Alle Segues sind Passagen",
+            "conclusion": "Alle Passagen sind Zustandsänderungen",
+            "words": [
+                "changes of state",
+                "passages",
+                "segues"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "IE4",
+            "premise1": "Einige Schützen sind Scharfschützen",
+            "premise2": "Einige Scharfschützen sind keine Künstler",
+            "conclusion": "Keine Schützen sind Künstler",
+            "words": [
+                "snipers",
+                "marksmen",
+                "artists"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AI2",
+            "premise1": "Einige Skulpturen sind plastische Künste",
+            "premise2": "Einige plastische Künste sind Statuen",
+            "conclusion": "Alle Statuen sind Skulpturen",
+            "words": [
+                "sculptures",
+                "statues",
+                "plastic arts"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "IE4",
+            "premise1": "Einige Organismen sind Postdiluver",
+            "premise2": "Einige Postdiluver sind keine Sukkulenten",
+            "conclusion": "Keine Organismen sind Sukkulenten",
+            "words": [
+                "postdiluvians",
+                "organisms",
+                "succulents"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "IE4",
+            "premise1": "Einige Endprodukte sind Oeuvres",
+            "premise2": "Einige Oeuvres sind keine Organe",
+            "conclusion": "Keine Endprodukte sind Organe",
+            "words": [
+                "oeuvres",
+                "end products",
+                "organs"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA3",
+            "premise1": "Keine Fahrzeuge sind Durchgangstage",
+            "premise2": "Einige Fahrzeuge sind keine Arterien",
+            "conclusion": "Alle Arterien sind Durchgangsstraße",
+            "words": [
+                "vehicles",
+                "thoroughfares",
+                "arteries"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA4",
+            "premise1": "Keine Kolonien sind Kameras",
+            "premise2": "Einige Körper sind keine Kameras",
+            "conclusion": "Alle Kolonien sind Körper",
+            "words": [
+                "cameras",
+                "colonies",
+                "bodies"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "IE4",
+            "premise1": "Einige Familien sind Pflegefamilien",
+            "premise2": "Einige Pflegefamilien sind keine Hämmer",
+            "conclusion": "Keine Familien sind Hämmer",
+            "words": [
+                "foster families",
+                "families",
+                "hammers"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA2",
+            "premise1": "Einige Märkte sind keine ersten öffentlichen Angebote",
+            "premise2": "Alle ersten öffentlichen Angebote sind kommerziell",
+            "conclusion": "Keine Handelsmärkte sind Märkte",
+            "words": [
+                "markets",
+                "commerces",
+                "initial public offerings"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA3",
+            "premise1": "Keine Niederschläge sind Lehrer",
+            "premise2": "Keine Unterrichtsstoffe sind Niederschläge",
+            "conclusion": "Alle Unterrichtsstoffe sind Lehrer",
+            "words": [
+                "precipitations",
+                "teachers",
+                "teaching fellows"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA2",
+            "premise1": "Keine Flieger sind Fahrzeuge",
+            "premise2": "Einige Fahrzeuge sind keine Piloten",
+            "conclusion": "Alle Piloten sind Flieger",
+            "words": [
+                "vehicles",
+                "aviators",
+                "pilots"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "EA4",
+            "premise1": "Keine Biosphären sind Krieger",
+            "premise2": "Einige Regionen sind keine Krieger",
+            "conclusion": "Alle Biosphären sind Regionen",
+            "words": [
+                "warriors",
+                "biospheres",
+                "regions"
+            ],
+            "plausibility": true,
+            "validity": false
+        },
+        {
+            "schema": "AE3",
+            "premise1": "Keine Gemeinden sind Paläste",
+            "premise2": "Keine Gemeinschaften sind Villen",
+            "conclusion": "Alle Paläste sind Villen",
+            "words": [
+                "palaces",
+                "mansions",
+                "communities"
+            ],
+            "plausibility": true,
+            "validity": false
+        }
+    ],
+    "syllogistic_reasoning_binary_bel_val.json": [
+        {
+            "schema": "AE1",
+            "premise1": "Alle Vasen sind Gläser",
+            "premise2": "Keine Gläser sind Maschinen",
+            "conclusion": "Keine Maschinen sind Vasen",
+            "words": [
+                "vases",
+                "jars",
+                "machineries"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AE4",
+            "premise1": "Alle Planktonen sind Organismen",
+            "premise2": "Keine Planktonen sind Käse",
+            "conclusion": "Einige Organismen sind kein Käse",
+            "words": [
+                "organisms",
+                "planktons",
+                "chesses"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AA1",
+            "premise1": "Alle Rüstungen sind schützende Bedeckungen",
+            "premise2": "Alle Schutzabdeckungen sind Abdeckungen",
+            "conclusion": "Alle Rüstungen sind Abdeckungen",
+            "words": [
+                "armors",
+                "protective coverings",
+                "coverings"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AA4",
+            "premise1": "Alle Heiligtümer sind Orte",
+            "premise2": "Alle Heiligtümer sind geografische Gebiete",
+            "conclusion": "Einige geografische Gebiete sind Orte",
+            "words": [
+                "places",
+                "sanctuaries",
+                "geographical areas"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA3",
+            "premise1": "Keine Vegetationen sind Gottheit",
+            "premise2": "Alle Hypostasen sind Gottheit",
+            "conclusion": "Keine Vegetationen sind Hypostasen",
+            "words": [
+                "vegetations",
+                "Godheads",
+                "hypostases"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AI2",
+            "premise1": "Alle Zebras sind Äquines",
+            "premise2": "Einige ungerade Hufte sind Zebras",
+            "conclusion": "Einige Äquines sind ungerade Hammern",
+            "words": [
+                "equines",
+                "zebras",
+                "odd-toed ungulates"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AE4",
+            "premise1": "Alle Pflanzen bauen Komplexe",
+            "premise2": "Keine Pflanzen sind Schöpfer",
+            "conclusion": "Einige Gebäudekomplexen sind keine Schöpfer",
+            "words": [
+                "building complexes",
+                "plants",
+                "ladles"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AE1",
+            "premise1": "Alle Kathedralen sind Kirchen",
+            "premise2": "Keine Kirchen sind Statuen",
+            "conclusion": "Keine Kathedralen sind Statuen",
+            "words": [
+                "cathedrals",
+                "churches",
+                "statues"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AA4",
+            "premise1": "Alle Fahrräder sind Radfahrzeuge",
+            "premise2": "Alle Fahrräder sind Behälter",
+            "conclusion": "Einige Radfahrzeuge sind Behälter",
+            "words": [
+                "wheeled vehicles",
+                "bicycles",
+                "containers"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA1",
+            "premise1": "KEINE Instrumente sind Marauders",
+            "premise2": "Alle Marauders sind Angreifer",
+            "conclusion": "Einige Angreifer sind keine Instrumente",
+            "words": [
+                "instruments",
+                "marauders",
+                "attackers"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA4",
+            "premise1": "Keine Kochbücher sind Ärzte",
+            "premise2": "Alle Kochbücher sind Nachschlagewerke",
+            "conclusion": "Einige Nachschlagewerke sind keine Ärzte",
+            "words": [
+                "doctors",
+                "cookbooks",
+                "reference books"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA1",
+            "premise1": "Keine Bibliotheken sind Percussions",
+            "premise2": "Alle Percussions sind Musik",
+            "conclusion": "Einige Musik sind keine Bibliotheken",
+            "words": [
+                "libraries",
+                "percussions",
+                "musics"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA3",
+            "premise1": "Keine Luftballons sind Spiegel",
+            "premise2": "Alle Autospiegel sind Spiegel",
+            "conclusion": "Keine Autospiegel sind Luftballons",
+            "words": [
+                "balloons",
+                "mirrors",
+                "car mirrors"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EI1",
+            "premise1": "Keine Reptilien sind Amphibien",
+            "premise2": "Einige Amphibien sind Sumpfbuggys",
+            "conclusion": "Einige Sumpfbuggys sind keine Reptilien",
+            "words": [
+                "reptiles",
+                "amphibians",
+                "swamp buggies"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AA4",
+            "premise1": "Alle Hersteller sind Macher",
+            "premise2": "Alle Hersteller sind Schöpfer",
+            "conclusion": "Einige Schöpfer sind Macher",
+            "words": [
+                "makers",
+                "manufacturers",
+                "creators"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA2",
+            "premise1": "Keine Klassen sind Dschungel",
+            "premise2": "Alle Geschlechter sind Klassen",
+            "conclusion": "Einige Dschungel sind keine Geschlechter",
+            "words": [
+                "jungles",
+                "classes",
+                "sexes"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AI4",
+            "premise1": "Alle Percussions sind Musik",
+            "premise2": "Einige Percussions sind Trommeln",
+            "conclusion": "Einige Trommeln sind Musik",
+            "words": [
+                "musics",
+                "percussions",
+                "drummings"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EI1",
+            "premise1": "Keine Voraussetzungen sind Nervenwege",
+            "premise2": "Einige Nervenwege sind Stiele",
+            "conclusion": "Einige Stiele sind keine Voraussetzungen",
+            "words": [
+                "preys",
+                "nerve pathways",
+                "peduncles"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "EA4",
+            "premise1": "Keine Zebras sind Astronauten",
+            "premise2": "Alle Zebras sind Äquines",
+            "conclusion": "Einige Äquine sind keine Astronauten",
+            "words": [
+                "astronauts",
+                "zebras",
+                "equines"
+            ],
+            "plausibility": true,
+            "validity": true
+        },
+        {
+            "schema": "AA4",
+            "premise1": "Alle Klassen sind Sammlungen",
+            "premise2": "Alle Klassen sind Gruppen",
+            "conclusion": "Einige Sammlungen sind Gruppen",
+            "words": [
+                "collections",
+                "classes",
+                "groups"
+            ],
+            "plausibility": true,
+            "validity": true
+        }
+    ],
+    "syllogistic_reasoning_binary_unbel_inv.json": [
+        {
+            "schema": "EA2",
+            "premise1": "Keine Lebensräume sind Umgebungen",
+            "premise2": "Einige Umgebungen sind keine Luftballons",
+            "conclusion": "Alle Luftballons sind Lebensräume",
+            "words": [
+                "environments",
+                "habitats",
+                "balloons"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "IA1",
+            "premise1": "Einige Behälter sind Liegeplätze",
+            "premise2": "Alle Gewebe sind Behälter",
+            "conclusion": "Einige Liegeplätze sind Gewebe",
+            "words": [
+                "moorings",
+                "tissues",
+                "containers"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EI2",
+            "premise1": "Keine Tassen sind Trottel",
+            "premise2": "Einige Marines sind keine Tastchen",
+            "conclusion": "Einige Marines sind Tassen",
+            "words": [
+                "crockeries",
+                "cups",
+                "Marines"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "IA1",
+            "premise1": "Einige Küchen sind Landwirte",
+            "premise2": "Alle Wirbellosen sind Küche",
+            "conclusion": "Einige Landwirte sind wirbellose Wirbellose",
+            "words": [
+                "agriculturists",
+                "invertebrates",
+                "cuisines"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AI4",
+            "premise1": "Einige Gewebe sind Rosse",
+            "premise2": "Einige Biome sind Rosse",
+            "conclusion": "Alle Biome sind Gewebe",
+            "words": [
+                "tissues",
+                "biomes",
+                "steeds"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "IE2",
+            "premise1": "Einige Ökosysteme sind keine Fußgängerbrücken",
+            "premise2": "Keine Fußgängerbrücken sind Brücken",
+            "conclusion": "Einige Brücken sind Ökosysteme",
+            "words": [
+                "ecosystems",
+                "bridges",
+                "footbridges"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AA1",
+            "premise1": "Alle Züge sind Fahrzeuge",
+            "premise2": "Alle Schiefer sind Fahrzeuge",
+            "conclusion": "Alle Züge sind Schiefer",
+            "words": [
+                "trains",
+                "slates",
+                "vehicles"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "IE1",
+            "premise1": "Einige Tools sind keine Ärzte",
+            "premise2": "Keine Ärzte sind Ärzte",
+            "conclusion": "Einige Werkzeuge sind Ärzte",
+            "words": [
+                "tools",
+                "doctors",
+                "medical practitioners"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EI3",
+            "premise1": "Einige Kunstwerke sind nicht optisch",
+            "premise2": "Einige Kunstwerke sind physisch",
+            "conclusion": "Keine Optik sind physikalisch",
+            "words": [
+                "optic",
+                "physic",
+                "artworks"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AO3",
+            "premise1": "Einige Ingenieure sind keine Statuen",
+            "premise2": "Einige Ingenieure sind keine Schätze",
+            "conclusion": "Alle Statuen sind Schätze",
+            "words": [
+                "statues",
+                "treasures",
+                "engineers"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AA2",
+            "premise1": "Einige Hämmer sind Schützlingsmänner",
+            "premise2": "Alle Schützen sind Schöpfer",
+            "conclusion": "Alle Schatten sind Hämmer",
+            "words": [
+                "hammers",
+                "ladles",
+                "marksmen"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AO3",
+            "premise1": "Alle Transportsysteme sind Lebensräume",
+            "premise2": "Einige Brücken sind keine Transportsysteme",
+            "conclusion": "Einige Brücken sind keine Lebensräume",
+            "words": [
+                "transportation systems",
+                "habitats",
+                "bridges"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AE3",
+            "premise1": "Keine Eichhörnchen sind meteorologische Luftballons",
+            "premise2": "Keine meteorologischen Luftballons sind Luftballons",
+            "conclusion": "Alle Eichhörnchen sind Luftballons",
+            "words": [
+                "squirrels",
+                "balloons",
+                "meteorological balloons"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EI2",
+            "premise1": "Keine Lichter sind Bedingungen",
+            "premise2": "Einige Vasen sind keine Bedingungen",
+            "conclusion": "Einige Vasen sind Lichter",
+            "words": [
+                "conditions",
+                "lights",
+                "vases"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EI2",
+            "premise1": "Einige Niederschläge sind keine Schöpfer",
+            "premise2": "Einige Niederschläge sind Landwirte",
+            "conclusion": "Keine Landwirte sind Schöpfer",
+            "words": [
+                "creators",
+                "farmers",
+                "precipitations"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "IA1",
+            "premise1": "Einige Satelliten sind Hersteller",
+            "premise2": "Alle Denkmäler sind Satelliten",
+            "conclusion": "Einige Hersteller sind Denkmäler",
+            "words": [
+                "manufacturers",
+                "memorials",
+                "satellites"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EA3",
+            "premise1": "Keine Emerfresser sind Esser",
+            "premise2": "Keine Omnivoren sind Flaschen",
+            "conclusion": "Alle Flaschen sind Esser",
+            "words": [
+                "omnivores",
+                "eaters",
+                "bottles"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "AA2",
+            "premise1": "Alle Dschungel sind Kontemplationen",
+            "premise2": "Alle Dschungel sind Küchen",
+            "conclusion": "Alle Küchen sind Kontemplationen",
+            "words": [
+                "contemplations",
+                "cuisines",
+                "jungles"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EA1",
+            "premise1": "Keine Formationen sind Arrangements",
+            "premise2": "Einige Vasen sind keine Formationen",
+            "conclusion": "Alle Arrangements sind Vasen",
+            "words": [
+                "formations",
+                "arrangements",
+                "vases"
+            ],
+            "plausibility": false,
+            "validity": false
+        },
+        {
+            "schema": "EA2",
+            "premise1": "Einige Landwirte sind keine Angreifer",
+            "premise2": "Alle Landwirte sind Marauders",
+            "conclusion": "Keine Marauders sind Angreifer",
+            "words": [
+                "attackers",
+                "marauders",
+                "farmers"
+            ],
+            "plausibility": false,
+            "validity": false
+        }
+    ],
+    "syllogistic_reasoning_binary_unbel_val.json": [
+        {
+            "schema": "AA1",
+            "premise1": "Alle Küchen sind Biomes",
+            "premise2": "Alle Biome sind Verbraucher",
+            "conclusion": "Einige Küchen sind Verbraucher",
+            "words": [
+                "cuisines",
+                "biomes",
+                "consumers"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AO3",
+            "premise1": "Alle Künstler sind Schutz",
+            "premise2": "Einige Rosse sind kein Schutz",
+            "conclusion": "Einige Rosse sind keine Künstler",
+            "words": [
+                "artists",
+                "protections",
+                "steeds"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "IE1",
+            "premise1": "Einige Protisten sind Kameras",
+            "premise2": "Keine Kameras sind fotografische Ausrüstungen",
+            "conclusion": "Einige Protisten sind keine fotografischen Ausrüstungen",
+            "words": [
+                "protists",
+                "cameras",
+                "photographic equipments"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AE1",
+            "premise1": "Alle Innenarchitekten sind Schilde",
+            "premise2": "Keine Schilde sind schützende Bedeckungen",
+            "conclusion": "Keine Schutzabdeckungen sind Innenarchitekten",
+            "words": [
+                "interior designers",
+                "shields",
+                "protective coverings"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AO3",
+            "premise1": "Alle Bakterien sind Gemeinschaften",
+            "premise2": "Einige Organe sind keine Gemeinschaften",
+            "conclusion": "Einige Organe sind keine Bakterien",
+            "words": [
+                "bacterias",
+                "communities",
+                "organs"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AA1",
+            "premise1": "Alle Strukturen sind Kolosseen",
+            "premise2": "Alle Kolosseen sind Percussions",
+            "conclusion": "Alle Strukturen sind Percussions",
+            "words": [
+                "structures",
+                "Colosseums",
+                "percussions"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "OA4",
+            "premise1": "Einige Festungen sind keine Fenster",
+            "premise2": "Alle Festungen sind Geräte",
+            "conclusion": "Einige Geräte sind keine Windows",
+            "words": [
+                "windows",
+                "fortresses",
+                "implements"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EA3",
+            "premise1": "Keine Theater sind Gebäude",
+            "premise2": "Alle Motoren sind Gebäude",
+            "conclusion": "Einige Motoren sind keine Theater",
+            "words": [
+                "theaters",
+                "buildings",
+                "engines"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "IA1",
+            "premise1": "Einige Notizbücher sind Kontemplationen",
+            "premise2": "Alle Betrachtungen sind Tiere",
+            "conclusion": "Einige Notizbücher sind Tiere",
+            "words": [
+                "notebooks",
+                "contemplations",
+                "animals"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EA4",
+            "premise1": "Keine Raketen sind Fahrzeuge",
+            "premise2": "Alle Raketen sind Aasfresser",
+            "conclusion": "Einige Aasfresser sind keine Fahrzeuge",
+            "words": [
+                "vehicles",
+                "rockets",
+                "scavengers"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AE1",
+            "premise1": "Alle Mollusken sind Maschinen",
+            "premise2": "Keine Maschinen sind Maschinen",
+            "conclusion": "Keine Maschinen sind Mollusken",
+            "words": [
+                "mollusks",
+                "machineries",
+                "machines"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EA3",
+            "premise1": "Keine Teppiche sind Bodenabdeckungen",
+            "premise2": "Alle Fabriken sind Bodenabdeckungen",
+            "conclusion": "Einige Teppiche sind keine Fabriken",
+            "words": [
+                "rugs",
+                "floor covers",
+                "factories"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EA3",
+            "premise1": "Keine Ozeane sind Wasserkörper",
+            "premise2": "Alle Fabriken sind Wasserkörper",
+            "conclusion": "Einige Ozeane sind keine Fabriken",
+            "words": [
+                "oceans",
+                "bodies of water",
+                "factories"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AE3",
+            "premise1": "Alle Raketen sind Anpassungen",
+            "premise2": "Keine Domestikationen sind Anpassungen",
+            "conclusion": "Einige Domestikationen sind keine Raketen",
+            "words": [
+                "missiles",
+                "adjustments",
+                "domestications"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EI3",
+            "premise1": "Keine Äpfel sind essbare Früchte",
+            "premise2": "Einige Kugeln sind essbare Früchte",
+            "conclusion": "Einige Kugeln sind keine Äpfel",
+            "words": [
+                "apples",
+                "edible fruits",
+                "spheres"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AE1",
+            "premise1": "Alle Amphibien sind Ärzte",
+            "premise2": "Keine Ärzte sind Ärzte",
+            "conclusion": "Keine Amphibien sind Ärzte",
+            "words": [
+                "amphibians",
+                "doctors",
+                "medical practitioners"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AA2",
+            "premise1": "Alle Aquatics sind Raketen",
+            "premise2": "Alle Hersteller sind Aquatik",
+            "conclusion": "Alle Hersteller sind Raketen",
+            "words": [
+                "rockets",
+                "aquatics",
+                "manufacturers"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AE3",
+            "premise1": "Alle Straßenlern sind Fleischfresser",
+            "premise2": "Keine Procyoniden sind Fleischfresser",
+            "conclusion": "Einige Durchgangsstoffe sind keine Procyoniden",
+            "words": [
+                "thoroughfares",
+                "carnivores",
+                "procyonids"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "EA2",
+            "premise1": "Keine Arten sind taxonomische Gruppen",
+            "premise2": "Alle Geräte sind Arten",
+            "conclusion": "Einige taxonomische Gruppen sind keine Geräte",
+            "words": [
+                "taxonomic groups",
+                "species",
+                "devices"
+            ],
+            "plausibility": false,
+            "validity": true
+        },
+        {
+            "schema": "AA4",
+            "premise1": "Alle Organismen sind Berge",
+            "premise2": "Alle Organismen sind Teppiche",
+            "conclusion": "Einige Teppiche sind Berge",
+            "words": [
+                "mountains",
+                "organisms",
+                "rugs"
+            ],
+            "plausibility": false,
+            "validity": true
+        }
+    ]
+}
